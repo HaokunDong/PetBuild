@@ -1,4 +1,4 @@
-Library: D:\UnityProJect\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+Library: C:\Program Files (x86)\UnityProject\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --platform=Windows
 --backend=burst-llvm-18
 --target=X64_SSE2
@@ -9,11 +9,10 @@ Library: D:\UnityProJect\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_gene
 --target-framework=NetFramework
 --linker-options=PdbAltPath="代号Pet_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=D:\UnityProJect\Pet\Temp\Burst
---debug=Full
---key-folder=D:/Unity/2022.3.62f3c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=D:\UnityProJect\Pet\Library\Burst
---output=D:\UnityProJect\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=C:\Program Files (x86)\UnityProject\Pet\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.62f3c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=C:\Program Files (x86)\UnityProject\Pet\Library\Burst
+--output=C:\Program Files (x86)\UnityProject\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
@@ -103,11 +102,10 @@ Library: D:\UnityProJect\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_gene
 --target-framework=NetFramework
 --linker-options=PdbAltPath="代号Pet_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
---temp-folder=D:\UnityProJect\Pet\Temp\Burst
---debug=Full
---key-folder=D:/Unity/2022.3.62f3c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
---decode-folder=D:\UnityProJect\Pet\Library\Burst
---output=D:\UnityProJect\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--temp-folder=C:\Program Files (x86)\UnityProject\Pet\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.62f3c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=C:\Program Files (x86)\UnityProject\Pet\Library\Burst
+--output=C:\Program Files (x86)\UnityProject\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
 --pdb-search-paths=Temp/ManagedSymbols/
 
 --method=Unity.Burst.BurstCompiler+BurstCompilerHelper, Unity.Burst, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null::IsBurstEnabled()--8c2be93e18276203cbd918daa2748a10
