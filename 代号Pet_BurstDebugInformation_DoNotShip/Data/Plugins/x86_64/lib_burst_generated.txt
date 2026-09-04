@@ -10,6 +10,7 @@ Library: C:\Program Files (x86)\UnityProject\Pet\Temp\BurstOutput\Data\Plugins\x
 --linker-options=PdbAltPath="代号Pet_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Program Files (x86)\UnityProject\Pet\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.62f3c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Program Files (x86)\UnityProject\Pet\Library\Burst
 --output=C:\Program Files (x86)\UnityProject\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
@@ -103,6 +104,7 @@ Library: C:\Program Files (x86)\UnityProject\Pet\Temp\BurstOutput\Data\Plugins\x
 --linker-options=PdbAltPath="代号Pet_Data/Plugins/x86_64/lib_burst_generated.pdb"
 --generate-link-xml=Temp\burst.link.xml
 --temp-folder=C:\Program Files (x86)\UnityProject\Pet\Temp\Burst
+--debug=Full
 --key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.62f3c1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
 --decode-folder=C:\Program Files (x86)\UnityProject\Pet\Library\Burst
 --output=C:\Program Files (x86)\UnityProject\Pet\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
